@@ -1,5 +1,5 @@
 
-![1.png](./img/1.png)
+![1.png](./images/1.png)
 
 # jyq
 # address
